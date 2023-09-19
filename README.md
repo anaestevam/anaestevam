@@ -30,15 +30,16 @@
 
 <p align="center">
   <a href="https://github.com/anaestevam">
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=anaestevam&theme=transparent" />
-  </a>
-  <a href="https://github.com/anaestevam">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=anaestevam&hide_border=true&card_width=338&theme=transparent" />
-  </a>
-  <a href="https://github.com/anaestevam">
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=anaestevam&theme=transparent" />
   </a>
   <a href="https://github.com/anaestevam">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anaestevam&layout=compact" />
   </a>
+  <a href="https://github.com/anaestevam">
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=anaestevam&theme=transparent" />
+  </a>
+  <a href="https://github.com/anaestevam">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=anaestevam&hide_border=true&card_width=338&theme=transparent" />
+  </a>
+
 </p>
