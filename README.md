@@ -2,11 +2,13 @@
 
 * 👩🏻‍💻 Lover of technology and logic, I am currently a junior full stack developer
 
-* 👩🏻‍🎓 Student of the Bachelor's Degree in Information Technology at the Federal University of Rio Grande do Norte.
+* 👩🏻‍🎓 Computer Science Student at the Federal University of Rio Grande do Norte.
+
+* 👩🏻‍🎓 Bachelor of Information Technology at the Federal University of Rio Grande do Norte.
 
 * 👩🏻‍🎓 Graduated in IT Technician from the Federal University of Rio Grande do Norte.
 
-* 🧠 I'm learning Lavarel
+* 🧠 I'm learning Lavarel, TypeScript and Vue.js
 
 <p style="margin-left: 40px;">
 <a href="https://www.linkedin.com/in/ana-luisa-estevam-b90316183/">
